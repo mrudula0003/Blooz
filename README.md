@@ -1,4 +1,4 @@
-**BLOOZ: ** Personalized Products Website
+**BLOOZ:** Personalized Products Website
 Welcome to the Personalized Products Website repository! This project aims to create a robust and user-friendly platform where customers can personalize and customize products to better satisfy their needs. Below, you'll find detailed information about the specifications of the website files, the tech stack used, and the software requirements for setting up and running the project.
 
 **Project Overview**
